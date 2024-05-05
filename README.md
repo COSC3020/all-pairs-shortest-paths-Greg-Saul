@@ -40,6 +40,10 @@ The third set of nested for loops runs $n^3$ times. This is because there are th
 
 All of these together give us a worse case of $\theta(2n^2 + n^3)$ or just $\theta(n^3)$ onve we have dropped constants and lower orders.
 
+## Sources
+
+just followed the provided pseudocode from the readme
+
 
 
 
