@@ -37,15 +37,6 @@ function allPairsShortestPaths(graph) {
             }
         }
     }
-    // console.log(dist)
     return dist;
 }
 
-const g1 = [
-    [0, 1 , 0, 0],
-    [7, 0, 0, 0],
-    [0, 0, 0, 3],
-    [0, 0, 1, 0]
-]
-
-allPairsShortestPaths(g1)
